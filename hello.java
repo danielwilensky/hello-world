@@ -17,6 +17,8 @@ public class JavaPractice {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello, World!");
+        int happy = 0;
+        happy++;
     }
     
 }
