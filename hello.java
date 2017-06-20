@@ -20,6 +20,8 @@ public class JavaPractice {
         System.out.println("Thanks Sarah!");
         int happy = 0;
         happy++;
+        double oneMoreThing = -1;
+        oneMoreThing = oneMoreThing + 778;
     }
     
 }
